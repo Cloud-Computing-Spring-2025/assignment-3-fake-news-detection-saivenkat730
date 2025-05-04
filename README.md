@@ -5,6 +5,7 @@
 This project implements a Fake News Detection system using Apache Spark MLlib. It leverages machine learning techniques to classify news articles as either **Fake** or **Real** based on their textual content.
 
 ## Project Structure
+![image](https://github.com/user-attachments/assets/76031f43-326a-4b47-abd9-4f1292024b18)
 
 
 ## Setup Instructions
